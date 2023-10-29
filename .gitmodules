@@ -1,0 +1,6 @@
+[submodule "1-Conditionals"]
+	path = 1-Conditionals
+	url = https://github.com/harzrawat/1-Conditionals.git
+[submodule "2-for-loops-without-list"]
+	path = 2-for-loops-without-list
+	url = https://github.com/harzrawat/2-for-loops-without-list.git
